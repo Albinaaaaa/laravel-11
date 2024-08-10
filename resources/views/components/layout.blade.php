@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ env('APP_NAME') }}</title>
-    @vite(['resoorsces/css/app.css',
-    'resorces/js/app.css'])
+    @vite(['resources/css/app.css',
+    'resources/js/app.css'])
 </head>
 <body class="bg-slate-100 text-slate-900">
         <header class="bg-slate-800 shadow-lg">
